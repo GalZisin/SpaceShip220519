@@ -1,0 +1,7 @@
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_220519_Events\220519\220519\bin\Debug\220519.exe.config
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_220519_Events\220519\220519\bin\Debug\220519.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_220519_Events\220519\220519\bin\Debug\220519.pdb
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_220519_Events\220519\220519\obj\Debug\220519.csprojAssemblyReference.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_220519_Events\220519\220519\obj\Debug\220519.csproj.CoreCompileInputs.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_220519_Events\220519\220519\obj\Debug\220519.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_220519_Events\220519\220519\obj\Debug\220519.pdb
